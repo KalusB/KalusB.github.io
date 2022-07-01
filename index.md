@@ -1,7 +1,7 @@
 ## Benedict Bahr-Kalus
 ### Cosmologist at the [Korea Astronomy and Space Science Institute](http://cosmology.kasi.re.kr/index.php)
 
-![picture](/blob/main/assets/images/WipeOut24_03_2020_032402.588000.jpg | width = 100)
+<img src="https://github.com/KalusB/KalusB.github.io/blob/main/blob/main/assets/images/WipeOut24_03_2020_032402.588000.jpg" width="240">
 
 ### Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
