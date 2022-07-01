@@ -1,8 +1,6 @@
 ## Benedict Bahr-Kalus
 ### Cosmologist at the [Korea Astronomy and Space Science Institute](http://cosmology.kasi.re.kr/index.php)
 
-<img src="https://github.com/KalusB/KalusB.github.io/blob/main/blob/main/assets/images/WipeOut24_03_2020_032402.588000.jpg" width="240">
-
 ### Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
 [benedictkalus@gmail.com](mailto:benedictkalus@gmail.com)
@@ -40,22 +38,3 @@
 - **On the accelerated expansion of the cosmos**\\
   Dominik J. Schwarz, **Benedict Kalus**, Marina Seikel (Dec, 2010)\\
   Published in: [Prog.Part.Nucl.Phys. 66 (2011) 226-231 • Contribution to: International School of Nuclear Physics: 32nd Course: Particle and Nuclear Astrophysics](https://doi.org/10.1016/j.ppnp.2011.01.011) • e-Print: [1012.4906](https://arxiv.org/abs/1012.4906)
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
