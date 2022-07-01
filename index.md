@@ -1,3 +1,5 @@
+I am a postdoctoral research associate in the group of [David Parkinson](http://www.mtheory.co.uk/wordpress/david/) at the [Korea Astronomy and Space Science Institute](http://cosmology.kasi.re.kr/index.php). I did my first post-doc (2017-2020) with [Licia Verde](https://liciaverde.icc.ub.edu/) at the [Institut de Ciències del Cosmos](https://icc.ub.edu/) in Barcelona after obtaining a PhD from the [University of Portsmouth](https://www.port.ac.uk/research/research-centres-and-groups/institute-of-cosmology-and-gravitation) under the supervision of [Will Percival](https://uwaterloo.ca/physics-astronomy/people-profiles/will-percival), [David Bacon](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/david-bacon) and [Lado Samushia](https://www.phys.ksu.edu/people/tt-faculty/samushia.html). I did my undergrad at the [University of Bielefeld](https://www2.physik.uni-bielefeld.de/542.html?&L=1).
+
 # Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
 [benedictkalus@gmail.com](mailto:benedictkalus@gmail.com)\\
