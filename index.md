@@ -3,9 +3,13 @@
 
 ![picture](/KalusB.github.io/assets/WipeOut24_03_2020_032402.588000.jpg)
 
-### Markdown
+### Academic Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-**A measurement of the Integrated Sachs-Wolfe Effect with the Rapid ASKAP Continuum Survey**
+**Benedict Bahr-Kalus**, David Parkinson, Jacobo Asorey, Stefano Camera, Catherine Hale et al. (Apr 28, 2022)
+e-Print: [2204.13436](https://arxiv.org/abs/2204.13436)
+
+
 
 ```markdown
 Syntax highlighted code block
