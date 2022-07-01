@@ -8,6 +8,9 @@
 -**A measurement of the Integrated Sachs-Wolfe Effect with the Rapid ASKAP Continuum Survey**
 **Benedict Bahr-Kalus**, David Parkinson, Jacobo Asorey, Stefano Camera, Catherine Hale et al. (Apr 28, 2022)
 e-Print: [2204.13436](https://arxiv.org/abs/2204.13436)
+-**Born to Run: Inflationary Dynamics and Observational Constraints**
+Richard Easther(Auckland U.), **Benedict Bahr-Kalus**(KASI, DaeJeon), David Parkinson(KASI, DaeJeon) (Dec 20, 2021)
+e-Print: [2112.10922](https://arxiv.org/abs/2112.10922)
 
 
 
