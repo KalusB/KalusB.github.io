@@ -1,4 +1,4 @@
-![header](blob/main/assets/images/White Blue Patterns Business Email Header.png)
+![header](blob/main/assets/images/header.jpg)
 
 # Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
