@@ -1,8 +1,11 @@
 # Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
-[benedictkalus@gmail.com](mailto:benedictkalus@gmail.com)\\\\
+[benedictkalus@gmail.com](mailto:benedictkalus@gmail.com)\\
+
 [Korea Astronomy and Space Science Institute](http://cosmology.kasi.re.kr/index.php)\\
-Daedeok-daero 776, Yuseong-gu, Daejeon Metropolitan City, Republic of Korea
+Daedeok-daero 776, Yuseong-gu\\
+Daejeon Metropolitan City\\
+Republic of Korea
 
 # Academic Publications
 
