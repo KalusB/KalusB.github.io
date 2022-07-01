@@ -1,5 +1,3 @@
-![header](blob/main/assets/images/header.jpg)
-
 # Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
 [benedictkalus@gmail.com](mailto:benedictkalus@gmail.com)\\\\
