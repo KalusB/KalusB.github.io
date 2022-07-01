@@ -42,6 +42,10 @@ Republic of Korea
 - **On the accelerated expansion of the cosmos**\\
   Dominik J. Schwarz, **Benedict Kalus**, Marina Seikel (Dec, 2010)\\
   Published in: [Prog.Part.Nucl.Phys. 66 (2011) 226-231 • Contribution to: International School of Nuclear Physics: 32nd Course: Particle and Nuclear Astrophysics](https://doi.org/10.1016/j.ppnp.2011.01.011) • e-Print: [1012.4906](https://arxiv.org/abs/1012.4906)
+  
+# Published Data Products
+- [RACS C_l covariance matrices](https://github.com/racscosmology/isw)
+- [Systematic templates for BOSS DR12 CMASS clustering analyses](https://github.com/KalusB/Moses/tree/master/Templates)
 
 # Published Code
 - [MOde Subtraction code to Eliminate Systematic contamination in galaxy clustering power spectrum measurements](https://github.com/KalusB/Moses)
