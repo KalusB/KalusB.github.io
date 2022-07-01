@@ -1,11 +1,8 @@
-## Benedict Bahr-Kalus
-### Cosmologist at the [Korea Astronomy and Space Science Institute](http://cosmology.kasi.re.kr/index.php)
-
-### Contact
+# Contact
 [benedictbahrkalus@kasi.re.kr](mailto:benedictbahrkalus@kasi.re.kr)\\
 [benedictkalus@gmail.com](mailto:benedictkalus@gmail.com)
 
-### Academic Publications
+# Academic Publications
 
 - **A measurement of the Integrated Sachs-Wolfe Effect with the Rapid ASKAP Continuum Survey**\\
   **Benedict Bahr-Kalus**, David Parkinson, Jacobo Asorey, Stefano Camera, Catherine Hale et al.\\
