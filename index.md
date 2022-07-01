@@ -1,9 +1,6 @@
 ## Benedict Bahr-Kalus
-### Cosmologist at the Korea Astronomy and Space Science Institute
+### Cosmologist at the [Korea Astronomy and Space Science Institute](http://cosmology.kasi.re.kr/index.php)
 
-You can use the [editor on GitHub](https://github.com/KalusB/KalusB.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
