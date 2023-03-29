@@ -11,13 +11,22 @@ Republic of Korea
 
 # Academic Publications
 
-- **A measurement of the Integrated Sachs-Wolfe Effect with the Rapid ASKAP Continuum Survey**\\
-  **Benedict Bahr-Kalus**, David Parkinson, Jacobo Asorey, Stefano Camera, Catherine Hale et al.\\
-  e-Print: [2204.13436](https://arxiv.org/abs/2204.13436)
+- **Constraining cosmic inflation with observations: Prospects for 2030**\\
+  **Benedict Bahr-Kalus**, David Parkinson, Richard Easther\\
+  Published in: [MNRAS, Volume 520, Issue 2, April 2023, Pages 2405–2416](https://doi.org/10.1093/mnras/stad092) • e-Print: [2212.04115](https://arxiv.org/abs/2212.04115)
 
-- **Born to Run: Inflationary Dynamics and Observational Constraints**\\
+- **Measurement of the matter-radiation equality scale using the extended Baryon Oscillation Spectroscopic Survey Quasar Sample**\\
+  **Benedict Bahr-Kalus**, David Parkinson, Eva-Maria Mueller\\
+  Published in: [arXiv:2302.07484](https://doi.org/10.48550/arXiv.2302.07484) • Year: 2023 • Month: Feb
+
+- **Running primordial perturbations: Inflationary dynamics and observational constraints**\\
   Richard Easther, **Benedict Bahr-Kalus**, David Parkinson\\
-  e-Print: [2112.10922](https://arxiv.org/abs/2112.10922)
+  Published in: [Phys. Rev. D 106, 061301 (2022)](https://doi.org/10.1103/PhysRevD.106.061301) • e-Print: [2205.04467](https://arxiv.org/abs/2205.04467)
+  Cited 8 times
+
+- **A measurement of the integrated Sachs-Wolfe effect with the Rapid ASKAP Continuum Survey**\\
+  **Benedict Bahr-Kalus**, David Parkinson, Jacobo Asorey, Stefano Camera, Catherine Hale, Fei Qin\\
+  Published in: [MNRAS 517, 3785-3803 (2022)](https://doi.org/10.1093/mnras/stac2040) • e-Print: [arXiv:2204.13436](https://arxiv.org/abs/2204.13436)
 
 - **The Kaiser-Rocket effect: three decades and counting**\\
   **Benedict Bahr-Kalus**, Daniele Bertacca, Licia Verde, Alan Heavens\\
