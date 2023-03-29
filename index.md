@@ -22,7 +22,6 @@ Republic of Korea
 - **Running primordial perturbations: Inflationary dynamics and observational constraints**\\
   Richard Easther, **Benedict Bahr-Kalus**, David Parkinson\\
   Published in: [Phys. Rev. D 106, 061301 (2022)](https://doi.org/10.1103/PhysRevD.106.061301) • e-Print: [2205.04467](https://arxiv.org/abs/2205.04467)
-  Cited 8 times
 
 - **A measurement of the integrated Sachs-Wolfe effect with the Rapid ASKAP Continuum Survey**\\
   **Benedict Bahr-Kalus**, David Parkinson, Jacobo Asorey, Stefano Camera, Catherine Hale, Fei Qin\\
