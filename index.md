@@ -11,13 +11,21 @@ Republic of Korea
 
 # Academic Publications
 
+- **Measurement of the matter-radiation equality scale using the extended Baryon Oscillation Spectroscopic Survey Quasar Sample**\\
+  **Benedict Bahr-Kalus**, David Parkinson, Eva-Maria Mueller\\
+  Published in: [MNRAS, Volume 524, Issue 2, September 2023, Pages 2463–2476](https://doi.org/10.1093/mnras/stad1867) • e-Print:[2302.07484](https://doi.org/10.48550/arXiv.2302.07484)
+
+- **Local primordial non-Gaussianity from the large-scale clustering of photometric DESI luminous red galaxies**\\
+  Mehdi Rezaie et al.\\
+  Published in: [arXiv:2307.01753](https://arxiv.org/abs/2307.01753)
+
+- **NANCY: Next-generation All-sky Near-infrared Community surveY**\\
+  Jiwon Jesse Han et al.\\
+  Published in: [arXiv:2306.11784](https://arxiv.org/abs/2306.11784)
+  
 - **Constraining cosmic inflation with observations: Prospects for 2030**\\
   **Benedict Bahr-Kalus**, David Parkinson, Richard Easther\\
   Published in: [MNRAS, Volume 520, Issue 2, April 2023, Pages 2405–2416](https://doi.org/10.1093/mnras/stad092) • e-Print: [2212.04115](https://arxiv.org/abs/2212.04115)
-
-- **Measurement of the matter-radiation equality scale using the extended Baryon Oscillation Spectroscopic Survey Quasar Sample**\\
-  **Benedict Bahr-Kalus**, David Parkinson, Eva-Maria Mueller\\
-  Published in: [arXiv:2302.07484](https://doi.org/10.48550/arXiv.2302.07484) • Year: 2023 • Month: Feb
 
 - **Running primordial perturbations: Inflationary dynamics and observational constraints**\\
   Richard Easther, **Benedict Bahr-Kalus**, David Parkinson\\
