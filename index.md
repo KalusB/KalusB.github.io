@@ -1,6 +1,25 @@
 ## 👨‍🔬 About Benedict Bahr-Kalus
 
-I am a Postdoctoral Researcher specializing in cosmology, focusing on **ultra-large scales** in radio and spectroscopic surveys to test fundamental concepts like **inflation**, **dark energy**, and the **cosmological principle**.
+I am a Postdoctoral Researcher specialising in cosmology, focusing on **ultra-large scales** in radio and spectroscopic surveys to test fundamental concepts like **inflation**, **dark energy**, and the **cosmological principle**.
+
+### 🌟 Leadership & Coordination Roles
+
+* **Co-ordinator of ASKAP EMU Cosmology Key Project** (Since Aug 2023): Leading the cosmological analysis efforts for the EMU survey, coordinating an international team of researchers and managing cosmology subprojects.
+* **Member of the EMU/Euclid coordination group** (Since Nov 2025).
+* **Member of the DESI Speakers Board** (Sep 2022 – Sep 2023).
+
+---
+
+## ✨ Featured News
+
+**Our work on the Cosmic Radio Dipole featured in Italy's INAF Magazine!**
+
+An exciting public science article covering the team's latest analysis of the **cosmic radio dipole**, a measurement that helps us test the fundamental cosmological principle and understand how we move through the universe.
+
+**Read the full article (in Italian):** [https://www.media.inaf.it/2025/11/28/dipolo-radio/](https://www.media.inaf.it/2025/11/28/dipolo-radio/)
+
+
+---
 
 ### 🗺️ Research Experience & Timeline
 
@@ -21,17 +40,6 @@ I am a Postdoctoral Researcher specializing in cosmology, focusing on **ultra-la
 
 ---
 
-## ✨ Featured News
-
- **Our work on the Cosmic Radio Dipole featured in Italy's INAF Magazine!**
-
- An exciting public science article covering the team's latest analysis of the **cosmic radio dipole**, a measurement that helps us test the fundamental cosmological principle and understand how we move through the universe.
-
- **Read the full article (in Italian):** [https://www.media.inaf.it/2025/11/28/dipolo-radio/](https://www.media.inaf.it/2025/11/28/dipolo-radio/)
-
-
----
-
 ## 📝 Academic Publications (Chronological List)
 
 * **EMU and Euclid: Detection of a radio-optical galaxy clustering cross-correlation signal between the Evolutionary Map of the Universe and Euclid**
@@ -46,7 +54,7 @@ I am a Postdoctoral Researcher specializing in cosmology, focusing on **ultra-la
     DESI Collaboration (**B. Bahr-Kalus**, D. Parkinson, K. Lodha, and 52 more)
     Published in: *Phys.Rev.D 112 (2025) 6, 063553* • [DOI](https://ui.adsabs.harvard.edu/link_gateway/2025PhRvD.112f3553B/doi:10.1103/yqm1-ybbv)
 
-* **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**
+* **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modelling of Clustering Measurements**
     DESI Collaboration (212 alphabetical authors including **B. Bahr-Kalus**)
     Published in: *JCAP 07 (2025) 028* • [DOI](https://ui.adsabs.harvard.edu/link_gateway/2025JCAP...07..028A/doi:10.1088/1475-7516/2025/07/028)
 
