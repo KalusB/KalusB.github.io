@@ -1,37 +1,45 @@
 import requests
 import json
 import os
+import sys
 
-# Configuration
-# Replace '0000-0002-4578-4019' with your ORCID or use a specific ADS query
+# Konfiguration
 ORCID = "0000-0002-4578-4019"
-API_TOKEN = os.environ.get("ADS_API_TOKEN") # We will set this in GitHub
-SEARCH_URL = "https://api.adsabs.harvard.edu/v1/search/query"
+API_TOKEN = os.environ.get("ADS_API_TOKEN")
+
+if not API_TOKEN:
+    print("❌ FEHLER: ADS_API_TOKEN ist in der Umgebung nicht gesetzt!")
+    sys.exit(1)
 
 def fetch_publications():
+    headers = {"Authorization": f"Bearer {API_TOKEN}"}
+    # Wir suchen nach deiner ORCID
     query = f'orcid:{ORCID} sort:date desc'
     params = {
         "q": query,
-        "fl": "title,author,year,pub,bibcode,doi,arxiv_id",
+        "fl": "title,author,year,pub,bibcode",
         "rows": 100
     }
-    headers = {"Authorization": f"Bearer {API_TOKEN}"}
     
-    response = requests.get(SEARCH_URL, params=params, headers=headers)
+    print(f"📡 Starte ADS-Abfrage für ORCID: {ORCID}...")
+    response = requests.get("https://api.adsabs.harvard.edu/v1/search/query", params=params, headers=headers)
+    
     if response.status_code == 200:
-        data = response.json()
-        return data['response']['docs']
+        docs = response.json().get('response', {}).get('docs', [])
+        print(f"✅ Erfolg: {len(docs)} Publikationen gefunden.")
+        return docs
     else:
-        print(f"Error: {response.status_code}")
+        print(f"❌ ADS API Fehler: {response.status_code}")
+        print(f"Antwort: {response.text}")
         return None
 
-def save_to_json(pubs):
-    # This saves the data to a file your website can read
+pubs = fetch_publications()
+
+if pubs is not None:
+    # Wir erstellen die Datei IMMER, auch wenn sie leer ist, damit 'git add' nicht abstürzt
     with open('publications.json', 'w', encoding='utf-8') as f:
         json.dump(pubs, f, ensure_ascii=False, indent=4)
-
-if __name__ == "__main__":
-    publications = fetch_publications()
-    if publications:
-        save_to_json(publications)
-        print(f"Successfully updated {len(publications)} papers.")
+    print("💾 publications.json wurde geschrieben.")
+else:
+    print("⚠️ Skript abgebrochen, keine Datei erstellt.")
+    sys.exit(1)
