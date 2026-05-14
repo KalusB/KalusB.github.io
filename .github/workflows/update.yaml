@@ -1,16 +1,18 @@
 name: Update Publications
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: # Hier geben wir dem Job explizit Schreibrechte
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Update auf v4 für Node 24 Support
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Update auf v5
         with:
           python-version: '3.x'
       - name: Install dependencies
@@ -19,7 +21,7 @@ jobs:
         env:
           ADS_API_TOKEN: ${{ secrets.ADS_API_TOKEN }}
         run: python update_pubs.py
-      - name: Commit changes
+      - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
