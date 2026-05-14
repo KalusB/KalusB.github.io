@@ -1,0 +1,28 @@
+name: Update Publications
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run update script
+        env:
+          ADS_API_TOKEN: ${{ secrets.ADS_API_TOKEN }}
+        run: python update_pubs.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add publications.json
+          git commit -m "Update publication list from ADS" || exit 0
+          git push
